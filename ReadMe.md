@@ -1,6 +1,6 @@
 ## Database query
 ### Given tables:
- User and Training_details tables from [UserTraining DataDump.sql](UserTraining DataDump.sql)
+ User and Training_details tables from [UserTrainingDataDump.sql](UserTrainingDataDump.sql)
 ### Write a Query
 to get the list of users who took the training lesson more than once at the same day,
 grouped by user and training lesson, each ordered from the most recent lesson date to oldest
